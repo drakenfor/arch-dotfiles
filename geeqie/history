@@ -1,0 +1,22 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Carpeta de inicio[path]/home/robert"
+"Escritorio[path]/home/robert/Desktop"
+"Colecciones[path]/home/robert/.local/share/geeqie/collections"
+
+[path_list]
+"/usr/share/icons/Material-Black-Mango-Numix/64/places"
+"/home/robert/Downloads/polybar-themes/wallpapers"
+"/home/robert/Pictures"
+"/home/robert/.config/rofi/launchers/misc"
+"/home/robert"
+
+[bookmarks]
+".[path]/home/robert"
+"Carpeta de inicio[path]/home/robert"
+"Escritorio[path]/home/robert/Desktop"
+"Colecciones[path]/home/robert/.local/share/geeqie/collections"
+
+#end
